@@ -1,4 +1,4 @@
-class loan
+public class loan
 { 
 public void main loan()
 {
